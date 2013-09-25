@@ -11,7 +11,7 @@
 ## Setup
 Enter the following in the bash terminal
 
-1. `npm install -g grunt-cli`
+1. `npm install -g grunt-cli` - *this only needs to be done once*
 2. `git clone git@github.com:3Binary/AngularDay.git`
 3. `cd AngularDay`
 4. `npm install`
