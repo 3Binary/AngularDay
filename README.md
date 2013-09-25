@@ -1,6 +1,5 @@
-![](http://angularday.com/img/events/53562/c.22ea.76b.AngularJS-Shield-banner-3.png)
-
 # Angular Day
+![](http://angularday.com/img/events/53562/c.22ea.76b.AngularJS-Shield-banner-3.png)
 
 ## Prerequisites
 * Laptop with WiFi
